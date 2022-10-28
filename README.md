@@ -130,7 +130,7 @@ Modify the `Viking` class, have it inherit from `Soldier`, re-implement the `rec
 
 #### inheritance
 
-- `Viking` should **extend** `Soldier`
+- `Viking` shou ld **extend**`Soldier`
 
 #### class
 
